@@ -2,7 +2,7 @@
 
 **Google IT Automation with Python**
 
-All Courses<b>
-All Weeks<b>
-All In_class Codes/Assignment<b>
+All Courses<br>
+All Weeks<br>
+All In_class Codes/Assignment<br>
 All Modules
