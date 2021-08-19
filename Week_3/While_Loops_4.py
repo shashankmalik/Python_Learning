@@ -1,5 +1,10 @@
 def sum_divisors(n):
+  x=1
   sum = 0
+  while n!=0 and x<n:
+    if n%x == 0:
+      sum=sum+x
+    x +=1  
   # Return the sum of all divisors of n, not including n
   return sum
 
